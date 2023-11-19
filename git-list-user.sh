@@ -49,6 +49,6 @@ ubuntu@jenkins:~$ ./git-list-user.sh praveenkdevops Srcipting
 Listing users with read access to praveenkdevops/Srcipting...
 Users with read access to praveenkdevops/Srcipting:
 praveenkdevops
-====================================================================================
+=======================if want to execute to another project then change only project name and repo name and execute=============================================================
 
 
