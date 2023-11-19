@@ -43,6 +43,8 @@ list_users_with_read_access
 
 
 ====================================================================================
+export username="praveenkdevops"
+export token="ghp_erfefregbvdedededededededededededed"
 clone above script and give the permission as per the below
 ubuntu@jenkins:~$ chmod 755 git-list-user.sh
 ubuntu@jenkins:~$ ./git-list-user.sh praveenkdevops Srcipting
