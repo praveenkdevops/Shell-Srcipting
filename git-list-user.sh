@@ -40,3 +40,22 @@ function list_users_with_read_access {
 
 echo "Listing users with read access to ${REPO_OWNER}/${REPO_NAME}..."
 list_users_with_read_access
+
+
+
+
+
+
+
+
+
+====================================================================================
+clone above script and give the permission as per the below
+ubuntu@jenkins:~$ chmod 755 git-list-user.sh
+ubuntu@jenkins:~$ ./git-list-user.sh praveenkdevops Srcipting
+Listing users with read access to praveenkdevops/Srcipting...
+Users with read access to praveenkdevops/Srcipting:
+praveenkdevops
+====================================================================================
+
+
