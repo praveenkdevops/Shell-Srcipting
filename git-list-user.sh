@@ -43,6 +43,7 @@ list_users_with_read_access
 
 
 ====================================================================================
+sudo apt install jq   #if jq is not installed on your Linux system then it will not give the output..if remove collaborators JQ in the script then it will give JSON output.because every API's mostly gives JSON output.
 export username="praveenkdevops"
 export token="ghp_erfefregbvdedededededededededededed"
 clone above script and give the permission as per the below
